@@ -1,4 +1,4 @@
-# first_program
+# component
 
 ## Project setup
 ```
